@@ -5,5 +5,5 @@
 layout: home
 ---
 
-[![Logo_WhiteBG.png](/logo/Logo_WhiteBG.png)](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
+[![MachMitButton.png](/logo/Logo_WhiteBG.png)](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
 
