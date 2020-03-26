@@ -83,3 +83,9 @@ RKI Dashboard zu Fallzahlen auf Bundesland- und Landkreisebene: [https://experie
 RKI Datensätze auf Landkreiseebene: [https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc](https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc)
 
 Mobilität in Deutschland: [https://www.mobilitaet-in-tabellen.de/mit/](https://www.mobilitaet-in-tabellen.de/mit/)
+
+Raumtypologie Deutschland: [https://www.bmvi.de/SharedDocs/DE/Artikel/G/regionalstatistische-raumtypologie.html](https://www.bmvi.de/SharedDocs/DE/Artikel/G/regionalstatistische-raumtypologie.html)
+
+Demographische und Soziographische Daten: [https://www.algoly.com/](https://www.algoly.com/)
+
+Krankenhäuser und Anzahl an Betten: [https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/348b643c8b234cdc8b1b345210975b87_0?geometry=-21.114%2C46.261%2C42.168%2C55.880m](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/348b643c8b234cdc8b1b345210975b87_0?geometry=-21.114%2C46.261%2C42.168%2C55.880m)
