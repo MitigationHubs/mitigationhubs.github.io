@@ -11,11 +11,9 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 
 *MitigationHubs ist ein Beitrag zum [#WirVsVirusHack](https://twitter.com/WirvsVirusHack)*
 
-# Unser Projekt
+# Mehr über das Projekt
 
-[Pitch Video auf YouTube](https://www.youtube.com/watch?v=c1ocxDVbZk0&feature=youtu.be)
-
-[Projekt auf Devpost](https://devpost.com/software/landkreis-basierte-datenanalyse-der-fallzahlen-njehgr)
+[Pitch Video auf YouTube](https://www.youtube.com/watch?v=c1ocxDVbZk0&feature=youtu.be)          [Projekt auf Devpost](https://devpost.com/software/landkreis-basierte-datenanalyse-der-fallzahlen-njehgr)          [Projektbeschreibung](/project.markdown)
 
 ## Ablauf
 
@@ -23,42 +21,16 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 2. Analyse der RKI Daten sowie anonymen Daten zur lokalen Eindämmung und Identifikation von positiven Abweichlern durch das Wissenschaftsteam (siehe Fallbeispiele unten)
 3. Rückmeldung der Ergebnisse an die partizipierenden Bürger:innen und die allgemeine Öffentlichkeit
 
-## Motivation
+## Mach mit und melde die Maßnahmen gegen die Ausbreitung des Coronavirus vor deiner Haustür!
 
-### Wir möchten mit unserem Projekt:
+*Zum Mitmachen bitte auf den Button klicken*
 
-- An positiven Beispielen für diese Krise und zukünftige Herausforderungen gemeinsam lernen
-- Die gesellschaftliche Teilhabe am wissenschaftlichen Prozess durch Citizen Science ermöglichen
-- Anhand positiver Beispiele Bürger:innen zum verantwortungsvollen Handeln motivieren
-- Verständnis für die Unvollständigkeit wissenschaftlicher Erkenntnisse wecken
-- Bürger:innen ein besseres Verständnis der Datenlage vermitteln
-
-*MitigationHubs, das sind jene Landkreise und Regionen, welche es im Vergleich besonders gut schaffen, die Ausbreitung des Covid19-Virus zu verlangsamen. Wir wollen diese identifizieren. Jede:r Bürger:in bekommt die Möglichkeit die Wissenschaftler:innen dabei zu unterstützen und profitiert am Ende von den Erkenntnissen.*
-
-### Unsere Ergebnisse könnten:
-- Im Rahmen der nächsten Wochen und Monate die Akzeptanz der drastischen Maßnahmen weiter unterstützen
-- Zur momentanen Evaluierung der getroffenen Maßnahmen dienen, aber auch in zukünftige Pläne der Bundesrepublik einfließen
-- Die positiven Effekte von lokalen Maßnahmen und lokaler Datenanalyse aufführen
-
-### Die Analysen sind vielfach anwendbar:
-- Die Untersuchung von MitigationHubs ist auf vielen räumlichen Skalen möglich, sofern Daten verfügbar sind und die Bürger:innen in möglichst großer Zahl partizipieren
-- Neben der Landkreisebene ist auch ein internationaler Vergleich durch leichte Änderungen am Code möglich
-- Spannend wäre es mit dem GIZ Data Lab als Unterstützer über eine mögliche Weiterentwicklung der Methodik gerade für Länder mit geringeren, öffentlich-verfügbaren Daten und kleinerer Kapazität der Behörden nachzudenken
-
-### Unser Projekt ist einfach zugänglich und ermöglicht die Partizipation am wissenschaftlichen Prozess:
-- Ähnlich wie ein CO2-Rechner auf indiviueller Ebene soll MitigationHubs Identifikation mit der Auswirkung des eigenen Handels stiften und dieses in einen wissenschaftlichen Kontext setzen
-- Durch verständliche Sprache und Illustrationen, anschauliche Fallbeispiele, eine lebendige Interaktion und eine ausführliche Motivation der Analysen soll die Hürde genommen werden, zu dem Projekt beizutragen 
-
-### Die ersten Schritte sind gemacht:
-- Wir haben die aktuelle Datenlage erfasst, aufgearbeitet und ergänzt sowie deren Qualität eingeschätzt. Dadurch wurden die Daten, welche dem [RKI Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/) zu Grunde liegen, für weitere Analysen nutzbar gemacht.
-- Eine Routine zum Berechnen lokaler Wachstumsraten basierend auf stetig aktualisierten Daten wurde entwickelt und getestet. 
-- Basierend auf der gegenwärtigen Datenlage haben wir verschiedene Methoden der Statistik, Datenanalyse und Modellierung anhand von Fallbeispielen ausprobiert um mögliche Korrelationen zwischen Prediktoren, Fallzahlen und Eindämmungsmaßnahmen festzustellen.
-- Grundlegende Überlegungen um MitigationHubs in ein Citizen Science-Projekt weiterzuentwickeln wurden bereits angestellt. Dieses Vorhaben ist uns ein besonderes Anliegen, da wir es Bürger:innen die Partizipation ermöglichen möchten, an der wissenschaftlichen Aufarbeitung der Krise teilzunehmen.
-
-### Was kommt als Nächstes?
-- Umsetzen des Citizen Science Ansatz durch Beteiligung und Rückmeldung der Ergebnisse an die Bürger:innen, Erweiterungen durch zusätzliche Möglichkeiten der statistischen Analyse
-- gegebenenfalls Anwendung auf andere Länder oder Regionen, die Methode kann hierzu leicht adaptiert werden
-- Um das Projekt MitigationHubs auszubauen werden benötigt: Zusätzliche Sammlung von anonymisierten Daten mit Hilfe der Bürger:innen, Unterstützung durch Expert:innen und Partner:innen für Social Media & Campaigning sowie durch Sozialwissenschaftler:innen und Epidemiolog:innen für dich richtig Einordnung der Ergebnisse, Expert:innen für Datenschutz um eine anonymisierten Übermittlung von Daten zu gewährleisten und gegebenenfalls Programmierer:innen falls eine App-Anwendung gestaltet werden möchte
+<div style="text-align:left">
+	<a href="https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de">
+		<img src="/logo/MachMitButton.png" alt="Mach mit!" title="MachMitButton.png" width="300" />
+	</a>
+</div>
+<br/>
 
 # Fallbeispiele
 In den 48 Stunden des #WirVsVirusHack haben wir mit unseren Methoden drei Fallbeispiele betrachtet, die mögliche Analysen illustrieren. Entscheidend für die Identifikation von MitigationHubs, sind neben den aktuellen Fallzahlen vor allem Kenntnisse über lokale Maßnahmen, die eine Eindämmung der weiteren Verbreitung des Covid19-Virus zum Ziel haben. Hierfür brauchen wir die Beteiligung der Bürger:innen.
