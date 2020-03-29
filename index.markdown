@@ -36,9 +36,9 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 [![shiny.png](/logo/shiny.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
 <!-- <iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
-RKI Dashboard zu Fallzahlen auf Bundesland- und Landkreisebene: https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/
+RKI Dashboard zu Fallzahlen auf Bundesland- und Landkreisebene: [https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/)
 
-RKI Datensätze auf Landkreiseebene: https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc
+RKI Datensätze auf Landkreiseebene: [https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc](https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc)
 
 Mobilität in Deutschland: [https://www.mobilitaet-in-tabellen.de/mit/](https://www.mobilitaet-in-tabellen.de/mit/)
 
