@@ -45,3 +45,16 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 - gegebenenfalls Anwendung auf andere Länder oder Regionen, die Methode kann hierzu leicht adaptiert werden
 - Um das Projekt MitigationHubs auszubauen werden benötigt: Zusätzliche Sammlung von anonymisierten Daten mit Hilfe der Bürger:innen, Unterstützung durch Expert:innen und Partner:innen für Social Media & Campaigning sowie durch Sozialwissenschaftler:innen und Epidemiolog:innen für dich richtig Einordnung der Ergebnisse, Expert:innen für Datenschutz um eine anonymisierten Übermittlung von Daten zu gewährleisten und gegebenenfalls Programmierer:innen falls eine App-Anwendung gestaltet werden möchte
 
+### Referenzen
+
+RKI Dashboard zu Fallzahlen auf Bundesland- und Landkreisebene: [https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/)
+
+RKI Datensätze auf Landkreiseebene: [https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc](https://npgeo-corona-npgeo-de.hub.arcgis.com/search?groupIds=b28109b18022405bb965c602b13e1bbc)
+
+Mobilität in Deutschland: [https://www.mobilitaet-in-tabellen.de/mit/](https://www.mobilitaet-in-tabellen.de/mit/)
+
+Raumtypologie Deutschland: [https://www.bmvi.de/SharedDocs/DE/Artikel/G/regionalstatistische-raumtypologie.html](https://www.bmvi.de/SharedDocs/DE/Artikel/G/regionalstatistische-raumtypologie.html)
+
+Demographische und Soziographische Daten: [https://www.algoly.com/](https://www.algoly.com/)
+
+Krankenhäuser und Anzahl an Betten: [https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/348b643c8b234cdc8b1b345210975b87_0?geometry=-21.114%2C46.261%2C42.168%2C55.880m](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/348b643c8b234cdc8b1b345210975b87_0?geometry=-21.114%2C46.261%2C42.168%2C55.880m)
