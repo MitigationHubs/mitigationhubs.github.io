@@ -16,4 +16,4 @@ Kontaktieren könnt ihr uns am Besten per Mail: [mitigationhubs@gmail.com](mailt
 
 *MitigationHubs ist ein Beitrag zum [#WirVsVirusHack](https://twitter.com/WirvsVirusHack)*
 
-![Logo_WhiteBG.png](/logo/Logo_WhiteBG.png)
+![12-scaled.jpg](/logo/12-scaled.jpg)
