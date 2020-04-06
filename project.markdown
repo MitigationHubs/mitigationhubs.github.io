@@ -4,11 +4,7 @@ title: Projektbeschreibung
 permalink: /project/
 ---
 
-MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Region dämmt außergewöhnlich gut die Corona-Pandemie ein? Und wieso? Der Kampf gegen das Virus ist eine wissenschaftlichen Aufgabe, welche die Beteilung der Bürger:innen benötigt. Lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
-
-*MitigationHubs ist ein Beitrag zum [#WirVsVirusHack](https://twitter.com/WirvsVirusHack)*
-
-## Motivation
+*MitigationHubs, das sind jene Landkreise und Regionen, welche es im Vergleich besonders gut schaffen, die Ausbreitung des Covid19-Virus zu verlangsamen. Wir wollen diese identifizieren. Jede:r Bürger:in bekommt die Möglichkeit die Wissenschaftler:innen dabei zu unterstützen und profitiert am Ende von den Erkenntnissen.*
 
 ### Wir möchten mit unserem Projekt:
 
@@ -17,8 +13,6 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 - Anhand positiver Beispiele Bürger:innen zum verantwortungsvollen Handeln motivieren
 - Verständnis für die Unvollständigkeit wissenschaftlicher Erkenntnisse wecken
 - Bürger:innen ein besseres Verständnis der Datenlage vermitteln
-
-*MitigationHubs, das sind jene Landkreise und Regionen, welche es im Vergleich besonders gut schaffen, die Ausbreitung des Covid19-Virus zu verlangsamen. Wir wollen diese identifizieren. Jede:r Bürger:in bekommt die Möglichkeit die Wissenschaftler:innen dabei zu unterstützen und profitiert am Ende von den Erkenntnissen.*
 
 ### Unsere Ergebnisse könnten:
 - Im Rahmen der nächsten Wochen und Monate die Akzeptanz der drastischen Maßnahmen weiter unterstützen
