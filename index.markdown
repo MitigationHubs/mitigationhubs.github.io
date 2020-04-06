@@ -18,7 +18,7 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 		<img src="/logo/MachMitButton.png" alt="Mach mit!" title="MachMitButton.png" width="300" />
 	</a>
 	<br/><br/>
-	<i>## Mach mit und unterstütze die Wissenschaft: Hierzu einfach auf den Button drücken und Maßnahmen gegen die Ausbreitung des Coronavirus in Deiner Stadt mitteilen! </i>
+	<i>Mach mit und unterstütze die Wissenschaft: <br/> Hierzu einfach auf den Button drücken und Maßnahmen gegen die Ausbreitung des Coronavirus in Deiner Stadt mitteilen! </i>
 </div>
 <br/>
 
