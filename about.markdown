@@ -13,3 +13,7 @@ Unseren YouTube-Kanal, auf dem wir unsere Analysen kurz und verständlich erklä
 Ihr findet allen Source Code, den wir zum Erstellen der Analysen verwenden auf [Github](https://github.com/MitigationHubs).
 
 Kontaktieren könnt ihr uns am Besten per Mail: [mitigationhubs@gmail.com](mailto:mitigationhubs@gmail.com).
+
+*MitigationHubs ist ein Beitrag zum [#WirVsVirusHack](https://twitter.com/WirvsVirusHack)*
+
+![Logo_WhiteBG.png](/logo/Logo_WhiteBG.png)
