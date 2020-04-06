@@ -13,14 +13,12 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 [![shiny.png](/logo/shiny.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
 <!-- <iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
-## Mach mit und melde die Maßnahmen gegen die Ausbreitung des Coronavirus vor deiner Haustür!
-
 <div style="text-align:center">
 	<a href="https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de">
 		<img src="/logo/MachMitButton.png" alt="Mach mit!" title="MachMitButton.png" width="300" />
 	</a>
 	<br/><br/>
-	<i>Zum Mitmachen bitte auf den Button klicken </i>
+	<i>## Mach mit und unterstütze die Wissenschaft: Hierzu einfach auf den Button drücken und Maßnahmen gegen die Ausbreitung des Coronavirus in Deiner Stadt mitteilen! </i>
 </div>
 <br/>
 
