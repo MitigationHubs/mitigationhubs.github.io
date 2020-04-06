@@ -9,7 +9,9 @@ layout: home
 
 MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Region dämmt außergewöhnlich gut die Corona-Pandemie ein? Und wieso? Der Kampf gegen das Virus ist eine wissenschaftlichen Aufgabe, welche die Beteilung der Bürger:innen benötigt. Lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
 
-*MitigationHubs ist ein Beitrag zum [#WirVsVirusHack](https://twitter.com/WirvsVirusHack)*
+## Unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
+[![shiny.png](/logo/shiny.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
+<!-- <iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
 ## Mach mit und melde die Maßnahmen gegen die Ausbreitung des Coronavirus vor deiner Haustür!
 
@@ -22,16 +24,12 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 </div>
 <br/>
 
-## Mehr über das Projekt
-
-[Pitch Video auf YouTube](https://www.youtube.com/watch?v=c1ocxDVbZk0&feature=youtu.be)          [Projekt auf Devpost](https://devpost.com/software/landkreis-basierte-datenanalyse-der-fallzahlen-njehgr)          [Projektbeschreibung](/project.markdown)
-
 ## Ablauf
 
 1. Aufruf zur Unterstützung von Wissenschaftler:innen durch Meldung von Maßnahmen und das Sammeln von Fragen durch Bürger:innen
 2. Analyse der RKI Daten sowie anonymen Daten zur lokalen Eindämmung und Identifikation von positiven Abweichlern durch das Wissenschaftsteam (siehe Fallbeispiele unten)
 3. Rückmeldung der Ergebnisse an die partizipierenden Bürger:innen und die allgemeine Öffentlichkeit
 
-## Unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
-[![shiny.png](/logo/shiny.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
-<!-- <iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
+## Mehr über das Projekt
+
+[Pitch Video auf YouTube](https://www.youtube.com/watch?v=c1ocxDVbZk0&feature=youtu.be)          [Projekt auf Devpost](https://devpost.com/software/landkreis-basierte-datenanalyse-der-fallzahlen-njehgr)          [Projektbeschreibung](/project.markdown)
