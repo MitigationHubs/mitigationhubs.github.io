@@ -11,9 +11,7 @@ MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Re
 
 ## Unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
 [![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
-<iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe>
-
-
+<!--<iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
 ## Einfach [Mitmachen](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
 <div style="text-align:center">
