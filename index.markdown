@@ -10,17 +10,17 @@ layout: home
 MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Region dämmt außergewöhnlich gut die Corona-Pandemie ein? Und wieso? Der Kampf gegen das Virus ist eine wissenschaftlichen Aufgabe, welche die Beteilung der Bürger:innen benötigt. Lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
 
 ## Unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
+wertet die Entwicklung der Covid19-Fallzahlen auf Landkreisebene aus und kennzeichnet die lokalen Maßnahmen zur Eindämmung.
 [![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
 <!--<iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
 ## Einfach [Mitmachen](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
+und ganz nebenbei der Wissenschaft helfen, denn für uns ist es schwer, die zahlreichen, unterschiedliche Maßnahmen auf Landkreiseben zu verfolgen. Teil uns anonym mit, welche Maßnahmen zur Corona-Eindämmung in Deiner Umgebung eingeführt oder aufgehoben werden und unterstützt so die Analyse.
 <div style="text-align:center">
 	<a href="https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de">
 		<img src="/logo/MachMitButton.png" alt="Mach mit!" title="MachMitButton.png" width="300" />
 	</a>
-	<br/><br/>
-	<i> Hierzu einfach auf den Button drücken <br/> & Maßnahmen zur Corona-Eindämmung in Deiner Umgebung mitteilen! </i>
-</div>
+	</div>
 <br/>
 
 ## Ablauf
