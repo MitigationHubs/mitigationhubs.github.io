@@ -10,7 +10,7 @@ layout: home
 MitigationHubs bringt das Projekt #flattenthecurve in Eure Wohnzimmer! Welche Region dämmt außergewöhnlich gut die Corona-Pandemie ein? Und wieso? Der Kampf gegen das Virus ist eine wissenschaftlichen Aufgabe, welche die Beteilung der Bürger:innen benötigt. Lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
 
 ## Unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
-[![shiny.png](/logo/shiny.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
+[![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)
 <!-- <iframe src="http://mitigationhubs.shinyapps.io/mitigationhubs-shiny/" width="100%" height="400px"></iframe> -->
 
 <div style="text-align:center">
