@@ -9,7 +9,7 @@ categories: coronavirus update analyse fallzahlen
 ## Hiermit launchen wir unser [Analyse-Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny)! 
 Mit diesem kannst Du die Entwicklung der **Fallzahlen und Wachstumsraten** zwischen bis zu vier Landkreisen **vergleichen**. Es zeigt Dir die Zeitpunkte der **vor Ort getroffenen bzw. gelockerten Maßnahmen** an. Die Daten werden täglich auf den **neusten Stand** des RKI gebracht. Die Maßnahmen werden durch Bewohner übermittelt und mit Eurer [Mithilfe](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de) aktualisiert, dazu aber später mehr! 
 
-Moritz vom Team MitigatinHubs erklärt Euch in diesem Video, was ihr alles mit dem Dashboard herausfinden könnt.
+#### Moritz vom Team MitigatinHubs erklärt Euch in diesem Video, was Ihr alles mit dem Dashboard herausfinden könnt.
 
 Hier halten wir Schritt für Schritt die wichtigsten Punkte am Beispiel des **Stadtkreis Heidelberg** fest:
 
@@ -27,7 +27,7 @@ Zusätzlich könnt ihr euch unterschiedliche **Maßnahmen vor Ort** anzeigen las
 
 Daher sind wir **auf engagierte Bürger:innen angewiesen**. Ihr bekommt mit, dass sich in Eurem Land- oder Stadtkreis etwas ändert, beispielsweise Spielplätze wieder geöffnet werden oder eine allgemeine Maskenpflicht eingeführt wird? Über unser [**kurzes Online-Formular**](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de) könnt ihr dies bequem übermitteln und aktiv **an der Forschung teilhaben**. Spätestens **24h nach Eurer Teilnahme**, sind die angezeigten Maßnahmen in unserem Dashboard **verfügbar**. 
 
-### In diesem Sinne, lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
+#### In diesem Sinne, lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
 
 => Gleich das [Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny) ausprobieren oder [Maßnahmen übermitteln]((https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
 
