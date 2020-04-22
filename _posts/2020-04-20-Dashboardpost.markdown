@@ -25,8 +25,10 @@ Hier halten wir Schritt für Schritt die wichtigsten Punkte am Beispiel des **St
 
 Zusätzlich könnt ihr euch unterschiedliche **Maßnahmen vor Ort** anzeigen lassen. Und hier wird es wichtig: Es ist schwer bei der **Vielzahl und** der **Dynamik der Änderung von Maßnahmen** den Überblick zu behalten. Gleichzeitig möchten wir wissen, was vor Ort effektiv für eine Eindämmung der Fallzahlen sorgt. 
 
-Daher sind wir **auf engagierte Bürger:innen angewiesen**. Ihr bekommt mit, dass sich in Eurem Land- oder Stadtkreis etwas ändert, beispielsweise Spielplätze wieder geöffnet werden oder eine allgemeine Maskenpflicht eingeführt wird? Über unser **kurzes Online-Formular** könnt ihr dies bequem übermitteln und aktiv **an der Forschung teilhaben**. Spätestens **24h nach Eurer Teilnahme**, sind die angezeigten Maßnahmen in unserem Dashboard **verfügbar**. 
+Daher sind wir **auf engagierte Bürger:innen angewiesen**. Ihr bekommt mit, dass sich in Eurem Land- oder Stadtkreis etwas ändert, beispielsweise Spielplätze wieder geöffnet werden oder eine allgemeine Maskenpflicht eingeführt wird? Über unser [**kurzes Online-Formular**](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de) könnt ihr dies bequem übermitteln und aktiv **an der Forschung teilhaben**. Spätestens **24h nach Eurer Teilnahme**, sind die angezeigten Maßnahmen in unserem Dashboard **verfügbar**. 
 
-In diesem Sinne, lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
+### In diesem Sinne, lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
+
+&rarr Gleich das [Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny) ausprobieren oder [Maßnahmen übermitteln]((https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
 
 
