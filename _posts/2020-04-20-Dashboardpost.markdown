@@ -12,10 +12,13 @@ Hier ein Beispiel der Stadt Heidelberg:
 
 ![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)
 
-Für die Darstellung der Landkreiszahlen lässt sich zwischen logarithmischer und exponentieller Darstellung auswählen. Die Land- und Stadtkreise können ganz bequem über das Suchfenster eingegeben werden. Für den besseren Vergleich bietet sich  gemeinsame Achsen an. Dies kann ebenso ausgewählt werden. Wachstumsraten lassen sich entweder über einen 3-tägigen oder 7-tägigen Trend berechnen, wobei letztere robuster gegen Unsicherheiten im Datensatz zum Beispiel durch unterschiedliche Meldezeitpunkte ist. 
-![DashboardTutorial1.png](/logo/DashboardTutorial1.png)
+- Für die Darstellung der Landkreiszahlen lässt sich zwischen logarithmischer und exponentieller Darstellung auswählen
+- Die Land- und Stadtkreise können ganz bequem über das Suchfenster eingegeben werden
+- Für den besseren Vergleich bietet sich  gemeinsame Achsen an
+- Wachstumsraten lassen sich entweder über einen 3-tägigen oder 7-tägigen Trend berechnen, wobei letztere robuster gegen Unsicherheiten im Datensatz zum Beispiel durch unterschiedliche Meldezeitpunkte ist. 
+![DashboardTutorial1.png](/plots/DashboardTutorial1.png)
 
-Zusätzlich könnt ihr euch unterschiedliche Maßnahmen vor ORt anzeigen lassen. 
+Zusätzlich könnt ihr euch unterschiedliche Maßnahmen vor Ort anzeigen lassen. 
 
 
 *Bild 1: Bildunterschrift*
