@@ -15,10 +15,10 @@ Hier halten wir Schritt für Schritt die wichtigsten Punkte am Beispiel des **St
 
 ![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)
 
-- Für die Darstellung der Landkreiszahlen lässt sich **zwischen logarithmischer und exponentieller Darstellung**auswählen
-- Die Land- und Stadtkreise können ganz bequem über das **Suchfenster** eingegeben werden
-- Für den besseren Vergleich bietet sich **gemeinsame Achsen** an
-- Wachstumsraten lassen sich entweder über einen **3-tägigen oder 7-tägigen Trend** berechnen, wobei letztere robuster gegen Unsicherheiten im Datensatz zum Beispiel durch unterschiedliche Meldezeitpunkte ist
+- Es lässt sich **zwischen logarithmischer und exponentieller Darstellung** wählen
+- Die Land- und Stadtkreise können bequem über das **Suchfenster** eingegeben werden
+- Für den besseren Vergleich bieten sich **gemeinsame Achsen** an
+- Wachstumsraten lassen sich über einen **3-tägigen oder 7-tägigen Trend** berechnen, wobei letztere robuster gegen Unsicherheiten im Datensatz zum Beispiel durch unterschiedliche Meldezeitpunkte ist
 <br>
 
 ![DashboardTutorial1.png](/plots/DashboardTutorial1.png)
