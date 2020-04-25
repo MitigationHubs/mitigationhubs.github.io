@@ -30,6 +30,6 @@ Daher sind wir **auf engagierte Bürger:innen angewiesen**. Ihr bekommt mit, das
 <br><br>
 In diesem Sinne, lasst uns kooperien, lasst uns positive Stories über Corona erzählen und daraus lernen!
 <br><br>
-=> Gleich das [Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny) ausprobieren oder [Maßnahmen übermitteln](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)
+=> Gleich das [Dashboard](http://mitigationhubs.shinyapps.io/mitigationhubs-shiny) ausprobieren oder [Maßnahmen übermitteln](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de)!
 
 
