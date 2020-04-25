@@ -10,9 +10,8 @@ categories: coronavirus update analyse fallzahlen
 <br><br>
 Mit diesem kannst Du die Entwicklung der **Fallzahlen und Wachstumsraten** zwischen bis zu vier Landkreisen vergleichen. Es zeigt Dir die Zeitpunkte der vor Ort getroffenen bzw. gelockerten **Maßnahmen** an. Die Daten werden täglich auf den **neusten Stand** des RKI gebracht. Die Maßnahmen werden durch Bewohner übermittelt und mit Eurer [Mithilfe](https://forms.gle/3Jd2hRYbJGRBZ42d6?hl=de) aktualisiert, dazu aber später mehr! 
 <br><br>
-Moritz vom Team MitigatinHubs erklärt Euch in diesem **Video**, was Ihr alles mit dem Dashboard herausfinden könnt.**
+Moritz vom Team MitigatinHubs erklärt Euch in diesem **Video**, was Ihr alles mit dem Dashboard herausfinden könnt.
 <!--more-->
-<br>
 Hier halten wir Schritt für Schritt die wichtigsten Punkte am Beispiel des Stadtkreis Heidelberg fest:
 
 ![SKHeidelberg_Dashboard.png](/logo/SKHeidelberg_Dashboard.png)
